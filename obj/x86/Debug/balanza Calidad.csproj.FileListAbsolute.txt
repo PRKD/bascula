@@ -1,0 +1,10 @@
+c:\users\informatica\documents\visual studio 2010\Projects\balanza Calidad\balanza Calidad\bin\Debug\balanza Calidad.exe
+c:\users\informatica\documents\visual studio 2010\Projects\balanza Calidad\balanza Calidad\bin\Debug\balanza Calidad.pdb
+c:\users\informatica\documents\visual studio 2010\Projects\balanza Calidad\balanza Calidad\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\informatica\documents\visual studio 2010\Projects\balanza Calidad\balanza Calidad\obj\x86\Debug\balanza_Calidad.ConfPuertocom.resources
+c:\users\informatica\documents\visual studio 2010\Projects\balanza Calidad\balanza Calidad\obj\x86\Debug\balanza_Calidad.Form1.resources
+c:\users\informatica\documents\visual studio 2010\Projects\balanza Calidad\balanza Calidad\obj\x86\Debug\balanza_Calidad.Properties.Resources.resources
+c:\users\informatica\documents\visual studio 2010\Projects\balanza Calidad\balanza Calidad\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\informatica\documents\visual studio 2010\Projects\balanza Calidad\balanza Calidad\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\informatica\documents\visual studio 2010\Projects\balanza Calidad\balanza Calidad\obj\x86\Debug\balanza Calidad.exe
+c:\users\informatica\documents\visual studio 2010\Projects\balanza Calidad\balanza Calidad\obj\x86\Debug\balanza Calidad.pdb
